@@ -1,7 +1,7 @@
 {
-    "manifest_version": 1,
+    "manifest_version": 2,
     "name": "Chromeculator",
-    "version": 1.0,
+    "version": "1.0",
     "description": "Simple calculator for chrome",
     "action": {
         "default_popup": "index.html",
